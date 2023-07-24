@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <section>
+            <h1>
+                My name is shubham
+            </h1>
+            <table>
+                <tr>
+                    <td>Contact</td>
+                    <td><a href="#">shubhamnishad275@.com</a></td>
+                </tr>
+                <tr>
+                    <td>Linked in</td>
+                    <td><a href="#">linked.com</a></td>
+                </tr>
+                <tr>
+                    <td>github </td>
+                    <td><a href="#">git.com</a></td>
+                </tr>
+            </table>
+        </section>
+
+        <section>
+            <h1>Here is my basic in info....</h1>
+            <table>
+                <tr>
+                    <td><img src="shubham.jpg" alt="" height="150px" width="150px"></td>
+                    <td>Hello from this side is <em>shubham navik</em> . My age is 21.
+                    currently I persuing B-tech in <em>Computer Engineering</em> from NIT Kurukshetra which is located in Harayana state govern by 
+                    bjp leader Shree Manohar Lal since 2014.My ambition  is to achieve $1cr salary , one more thing impoertant about me I'm belonging to up u know...</td>
+                </tr>
+            </table>
+        </section>
+
+        <section>
+            <h2>Education</h2>
+            <ul>
+                <li>matric pass</li>
+                <li>Intermediate pass</li>
+                <li>jee-main cleared</li>
+                <li>persuing Btech 3rd year</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Skill</h2>
+           <table>
+               <tr>
+                <td>c++</td>
+                <td>⭐⭐⭐⭐⭐</td>
+               </tr>
+               <tr>
+                <td>c</td>
+                <td>⭐⭐⭐⭐⭐</td>
+               </tr>
+               <tr>
+                <td>python</td>
+                <td>⭐⭐⭐⭐</td>
+               </tr>
+               <tr>
+                <td>java</td>
+                <td>⭐⭐⭐</td>
+               </tr>
+               <tr>
+                <td>html</td>
+                <td>⭐⭐⭐⭐⭐</td>
+               </tr>
+               <tr>
+                <td>css</td>
+                <td>⭐⭐⭐</td>
+               </tr>
+               <tr>
+                <td>javaScript</td>
+                <td>⭐⭐⭐</td>
+               </tr>
+           </table>
+        </section>
+
+
+        <footer>
+            <p>&#169; 2023 All right reserve By shubham</p>
+        </footer>
+
+
+    </div>
+</body>
+</html>
